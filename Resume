@@ -28,7 +28,6 @@ Role: Sr.Cloud Engineer
 Collaborated with solution architects to ensure alignment with business requirements and scalability goals, utilizing AWS Solution Architect Tools.
 
 
-
 Role: Cloud Engineer 
 Orchestrated the seamless migration of a monolithic application to a serverless microservices architecture on AWS.
 Utilized Lambda, API Gateway, and ECS/Fargate for optimized agility and scalability.
@@ -46,7 +45,6 @@ Role: Cloud Engineer
 Worked closely with network and security teams to implement and maintain secure network configurations for microservices.
 Utilized AWS CloudFormation or Terraform to version control and manage infrastructure changes in a collaborative environment.
 Proactively monitored and analyzed system logs, identifying potential issues and implementing preemptive measures.
-
 
 Role: DevOps Engineer 
 Automated CI/CD pipelines using Jenkins and GitLab, improving deployment efficiency for essential banking applications.
