@@ -1,0 +1,94 @@
+Professional summary 
+Versatile Cloud professional with over 7 years of experience, excelling in optimizing system performance and ensuring reliability. Proven expertise in streamlining operations, deploying scalable cloud solutions, securing cloud architectures. Proficient in Infrastructure as Code (IaC), containerization, and advanced automation techniques through CI/CD pipelines. Adeptly experienced in AWS, Kubernetes, Terraform, Jenkins, Git, monitoring tools, scripting languages, and security protocols. Recognized for achieving quantifiable results in leading cross-functional teams, enhancing overall operational efficiency and security. 
+
+Proficient in architecting and managing AWS cloud solutions, optimizing the performance of a high-traffic application using services like EC2, RDS, Lambda, S3, Elastic Load Balancer.
+Automated resource provisioning using Terraform, ensuring infrastructure consistency and efficiency across environments.
+Implemented Ansible for streamlined infrastructure management, enhancing efficiency and scalability.
+Orchestrated Docker containers with Kubernetes, improving scalability and resource utilization for a microservices-based application.
+Implemented containerization strategies using Amazon ECS, facilitating deployment flexibility and resource efficiency.
+Developed Python scripts for automating routine tasks, significantly reducing manual effort and enhancing operational efficiency.
+Engineered CI/CD pipelines with Jenkins, ensuring seamless integration and delivery of code changes across diverse projects.
+Implemented Git for version control, enabling efficient code collaboration and management.
+Utilized ELK stack (Elasticsearch, Logstash, Kibana) for centralized logging, facilitating rapid issue identification and resolution.
+Facilitated cross-functional collaboration for successful cloud migration projects, ensuring minimal disruptions.
+
+Role: Sr.Cloud Engineer
+
+ Led the comprehensive design and implementation of highly scalable cloud solutions on AWS.
+Optimized performance utilizing EC2, RDS, Lambda, S3, and Elastic Load Balancer.
+Drove the evolution of Infrastructure as Code (IaC) practices, ensuring efficient and consistent infrastructure management through Terraform and AWS CloudFormation.
+Automated operational tasks with Ansible, enhancing system efficiency and reducing manual errors.
+Implemented advanced containerization and orchestration strategies using Docker and Kubernetes, optimizing deployment and scaling processes.
+Developed and maintained Python scripting solutions for automation, significantly improving operational workflows.
+Established and maintained advanced monitoring and logging solutions with the ELK stack.
+Implemented advanced disaster recovery processes, ensuring minimal downtime with AWS Disaster Recovery Services.
+Led initiatives to integrate automated testing into the deployment pipeline, enhancing code quality using Jenkins and Automated Testing Frameworks.
+Implemented advanced cost optimization strategies, providing insights into resource utilization with AWS Cost Explorer and AWS Budgets.
+Conducted post-incident reviews and implemented preventive measures using incident tracking and analysis tools.
+Collaborated with solution architects to ensure alignment with business requirements and scalability goals, utilizing AWS Solution Architect Tools.
+
+
+
+Role: Cloud Engineer 
+Orchestrated the seamless migration of a monolithic application to a serverless microservices architecture on AWS.
+Utilized Lambda, API Gateway, and ECS/Fargate for optimized agility and scalability.
+Implemented Docker for containerization, managing deployment and scaling with Amazon ECS or AWS Fargate.
+Evaluated and implemented serverless data storage solutions, including Amazon DynamoDB, ensuring seamless data consistency.
+Implemented robust security measures utilizing AWS IAM and integrated OAuth and other identity providers.
+Established end-to-end CI/CD pipelines for automated testing, deployment, and rollback using AWS CodePipeline, CodeBuild, and CodeDeploy.
+Integrated infrastructure as code practices with AWS CloudFormation or Terraform for consistent and efficient infrastructure management.
+Collaborated closely with development and architecture teams to align the migration with business requirements.
+Implemented centralized logging using AWS CloudWatch for comprehensive monitoring.
+Conducted post-incident reviews, identified areas for improvement, and implemented preventive measures using incident tracking and analysis tools.
+Contributed significantly to the documentation of the serverless microservices architecture.
+Automated routine tasks and operational workflows, reducing manual efforts and enhancing overall efficiency.
+Developed custom scripts in Python to automate configuration management and optimize system processes.
+Worked closely with network and security teams to implement and maintain secure network configurations for microservices.
+Utilized AWS CloudFormation or Terraform to version control and manage infrastructure changes in a collaborative environment.
+Proactively monitored and analyzed system logs, identifying potential issues and implementing preemptive measures.
+
+
+Role: DevOps Engineer 
+Automated CI/CD pipelines using Jenkins and GitLab, improving deployment efficiency for essential banking applications.
+Pioneered IaC principles with Terraform and AWS CloudFormation, streamlining the provisioning of AWS cloud resources.
+Orchestrated containerization with Docker and Kubernetes, ensuring consistent deployment practices and optimized resource use.
+Implemented robust security measures using AWS IAM, HashiCorp Vault, and integrated OAuth for compliance with financial industry standards.
+Introduced efficient communication tools like Slack and Microsoft Teams to cultivate a collaborative culture.
+Established and maintained a comprehensive monitoring solution with Prometheus, Grafana, and the ELK stack for actionable insights.
+Led incident response efforts with tools like PagerDuty and VictorOps, ensuring high availability.
+Executed a transition to an immutable infrastructure model using Ansible and Puppet, reducing configuration drift risks.
+Implemented customer feedback loops and monitoring tools, utilizing New Relic and Splunk for continuous improvements.
+Conducted impactful training programs, keeping the team updated on DevOps practices and using tools like HashiCorp Consul for service management.
+Streamlined collaboration through the integration of Jira and Confluence for effective project management and documentation.
+Utilized Grafana dashboards for real-time visualization of key performance metrics, enabling proactive system monitoring and issue identification.
+
+Role: SRE 
+Implemented robust security measures, including encryption and access controls, to ensure the confidentiality and integrity of healthcare data.
+Worked closely with compliance teams to adhere to industry standards, including HIPAA, ensuring the platform's compliance with healthcare regulations.
+Designed and implemented a highly available architecture using AWS services such as Amazon EC2, Elastic Load Balancing (ELB), and Auto Scaling, minimizing downtime and ensuring continuous access to critical healthcare information.
+Conducted performance profiling using New Relic and identified optimization opportunities within data processing pipelines.
+Configured detailed alerting criteria, including monitoring high CPU usage and setting thresholds for database latency.
+Implemented horizontal scaling of services and optimized database queries for improved performance, utilizing AWS RDS (Relational Database Service) and DynamoDB.
+Enhanced monitoring and alerting systems using Prometheus and Grafana to provide real-time visibility into the health and performance of the healthcare data platform.
+Configured alerts for anomalous behavior, potential security threats, and performance bottlenecks.
+Developed and tested a comprehensive disaster recovery plan using AWS CloudFormation, ensuring rapid recovery and data integrity in the event of unforeseen incidents.
+Conducted regular simulations and drills to validate the effectiveness of disaster recovery procedures.
+Leveraged regular disaster recovery simulations to identify and implement continuous improvements in recovery procedures.
+Monitored key performance metrics using CloudWatch, providing real-time insights into system health for automated scaling and monitoring of infrastructure resources.
+Collaborated with healthcare professionals, data scientists, and application developers to understand specific requirements and challenges in managing healthcare data.
+Implemented feedback loops using Jira to continuously improve the platform based on user experiences and evolving healthcare needs.
+Maintained detailed documentation for system architecture, configurations, and procedures using Confluence.
+Conducted training sessions for operations and development teams, ensuring a shared understanding of best practices and procedures.
+
+Role: Linux Administrator 
+Conducted comprehensive performance analysis using sar, top, and iostat to identify and address bottlenecks related to CPU, memory, disk I/O, and network.
+Led a security audit across all Linux servers, ensuring compliance with industry standards.
+Applied security patches and updates to the operating system and critical software for enhanced system security.
+Configured firewalls and implemented intrusion detection/prevention systems to fortify the server infrastructure.
+Established two-factor authentication for critical systems, strengthening overall security measures.
+Reviewed and revamped backup procedures to ensure data integrity and availability.
+Tested and validated backup restoration processes, guaranteeing the reliability of data recovery.
+Developed and implemented automation scripts for routine tasks such as log rotation, system monitoring, and backups.
+Utilized Ansible for configuration management, streamlining server administration and ensuring consistency across the infrastructure.
+Defined and enforced user account policies, minimizing security vulnerabilities.
+Simulated disaster scenarios and tested recovery procedures to ensure preparedness.
